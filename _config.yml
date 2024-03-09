@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lj-michale.top
+url: https://www.junyuan-liao.top
 date_format: "ordinal"
 title: Power Data
 subtitle: "公众号：数据搬砖人"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2016
 # 源码仓库，请替换成自己的
-repository: lj-michale/lj-michale.github.io
+repository: junyuan-liao/junyuan-liao.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
   jsdelivr:
