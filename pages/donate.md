@@ -14,7 +14,7 @@ permalink: /donate/
 
 ## Paypal
 
-[Donate via Paypal](https://paypal.me/lj-michale)
+[Donate via Paypal](https://paypal.me/junyuan-liao)
 
 ## 微信 / Wechat
 
